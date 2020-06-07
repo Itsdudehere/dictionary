@@ -10,7 +10,7 @@ A small project on simple modern internet abbrv.
 
 ## Additional ideas to work on
 
-- [] Make a TUI (Terminal User Interface) Application for the Dictionary
+- [ ] Make a TUI (Terminal User Interface) Application for the Dictionary
 Python package that can be used: `blessed`: https://github.com/jquast/blessed
 - [ ] Make a GUI Application for the Dictionary
 Python package that can be used: `tkinter` : https://docs.python.org/3/library/tkinter.html
