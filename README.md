@@ -5,8 +5,8 @@ A small project on simple modern internet abbrv.
 3. The program is taking few time to load. 
 
 
-## Things to keep in mind
-1. Always write *readable code* in Python 
+## Thing to keep in mind
+Always write *readable code* in Python 
 
 ## Additional ideas to work on
 
